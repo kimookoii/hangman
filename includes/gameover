@@ -1,0 +1,27 @@
+<!-- lost -->
+<section class="screen gameover-screen lost">
+	<div class="screen-contents">
+		<h1>Game over!</h1>
+		<h2>Click for Answer</h2>
+		<button class="reset">Play Again?</button>
+	</div>
+</section>
+
+<!-- time out -->
+<section class="screen gameover-screen timeout">
+	<div class="screen-contents">
+		<h1>Time Out!</h1>
+		<h2>A one-legged turtle is faster than you!</h2>
+		<h3>(Click for here Answer)</h3>
+		<button class="reset">Play Again?</button>
+	</div>
+</section>
+
+<!-- won -->
+<section class="screen gameover-screen won">
+	<div class="screen-contents">
+		<h1>You Won!</h1>
+		<h2>You Guessed <span></span></h2>
+		<button class="reset">Play Again?</button>
+	</div>
+</section>
